@@ -33,6 +33,7 @@ function getSystemInfo() {
 
 // Add debugging logs
 console.log('Retrieving system information...');
+console.log('hii');
 
 // Fetch the system information
 const systemInfo = getSystemInfo();
